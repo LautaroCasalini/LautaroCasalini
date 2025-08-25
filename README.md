@@ -17,7 +17,7 @@ Estudiante de **Ingeniería Informática** 🤓☝️
 
 👀 Me interesa todo el proceso del desarrollo de software: desde la idea inicial, pasando por el diseño y la programación, hasta la entrega de un producto que aporte valor real a las personas.  
 
-📖 Actualmente me encuentro aprendiendo y trabajando en proyectos personales con distintas tecnologías para mejorar mis habilidades y ampliar mi experiencia.  
+📖 Actualmente me encuentro aprendiendo y trabajando en proyectos personales y académicos con distintas tecnologías para mejorar mis habilidades y ampliar mi experiencia.  
 
 <br>
 
@@ -46,8 +46,8 @@ Estudiante de **Ingeniería Informática** 🤓☝️
 
 <div align="center" style="display: flex; flex-direction: column; gap: 6px;">
 
-🔗 [LinkedIn](https://www.linkedin.com/in/lautarocasalini)  
-📂 **Portfolio:** _[En construccion]_🛠️  
+💼 [LinkedIn](https://www.linkedin.com/in/lautarocasalini)  
+📂 **Portfolio:** _[En construccion]_ 🛠️  
 ✉️ **Mail:** casalinilautaro@gmail.com  
 
 </div>
