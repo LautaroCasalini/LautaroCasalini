@@ -46,7 +46,7 @@ Estudiante de **Ingeniería Informática** 🤓☝️
 
 <div align="center" style="display: flex; flex-direction: column; gap: 6px;">
 
-💼 [LinkedIn](https://www.linkedin.com/in/lautarocasalini)  
+💼 [LinkedIn][(https://www.linkedin.com/in/lautaro-casalini-561943369/)  
 📂 **Portfolio:** _[En construccion]_ 🛠️  
 ✉️ **Mail:** casalinilautaro@gmail.com  
 
